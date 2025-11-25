@@ -17,17 +17,6 @@ The app lets users ask any news-related question.
 
 - Returns the answer + source links
 
----
-
-## 🛠️ Project Structure
-project/
-│
-├── nodes1.py          # LangGraph workflow (search → answer → format → JSON)
-├── streamlit_app.py   # Streamlit UI (chat interface)
-├── .env               # API keys
-├── README.md
-
-
 
 ## Installation
 
