@@ -1,4 +1,4 @@
-# 📘 News Summarizer Chat — README
+# 📘 News Summarizer Chat
 
 A simple web-based news summarization tool built with Streamlit, LangGraph, OpenAI, and Tavily Search.
 
